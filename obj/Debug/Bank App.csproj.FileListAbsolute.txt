@@ -1,0 +1,25 @@
+C:\Users\Ghost\Desktop\Semester 2\FOP\Project\FoP Project\obj\Debug\FoP_Project.Accountstat.resources
+C:\Users\Ghost\Desktop\Semester 2\FOP\Project\FoP Project\obj\Debug\FoP_Project.Checkbal.resources
+C:\Users\Ghost\Desktop\Semester 2\FOP\Project\FoP Project\obj\Debug\FoP_Project.DeleteAcc.resources
+C:\Users\Ghost\Desktop\Semester 2\FOP\Project\FoP Project\obj\Debug\FoP_Project.Deposit.resources
+C:\Users\Ghost\Desktop\Semester 2\FOP\Project\FoP Project\obj\Debug\FoP_Project.Home.resources
+C:\Users\Ghost\Desktop\Semester 2\FOP\Project\FoP Project\obj\Debug\FoP_Project.Loginscreen.resources
+C:\Users\Ghost\Desktop\Semester 2\FOP\Project\FoP Project\obj\Debug\FoP_Project.Newusers.resources
+C:\Users\Ghost\Desktop\Semester 2\FOP\Project\FoP Project\obj\Debug\FoP_Project.Passreset.resources
+C:\Users\Ghost\Desktop\Semester 2\FOP\Project\FoP Project\obj\Debug\FoP_Project.Properties.Resources.resources
+C:\Users\Ghost\Desktop\Semester 2\FOP\Project\FoP Project\obj\Debug\FoP_Project.Transfer.resources
+C:\Users\Ghost\Desktop\Semester 2\FOP\Project\FoP Project\obj\Debug\FoP_Project.Withdraw.resources
+C:\Users\Ghost\Desktop\Semester 2\FOP\Project\FoP Project\obj\Debug\Bank App.csproj.GenerateResource.cache
+C:\Users\Ghost\Desktop\Semester 2\FOP\Project\FoP Project\obj\Debug\Bank App.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\Desktop\Semester 2\FOP\Project\FoP Project\obj\Debug\FoP Project.exe
+C:\Users\Ghost\Desktop\Semester 2\FOP\Project\FoP Project\obj\Debug\FoP Project.pdb
+C:\Users\Ghost\Desktop\Semester 2\FOP\Project\FoP Project\bin\Debug\Properties\Accounts.mdf
+C:\Users\Ghost\Desktop\Semester 2\FOP\Project\FoP Project\bin\Debug\Properties\Accounts_log.ldf
+C:\Users\Ghost\Desktop\Semester 2\FOP\Project\FoP Project\bin\Debug\FoP Project.exe.config
+C:\Users\Ghost\Desktop\Semester 2\FOP\Project\FoP Project\bin\Debug\FoP Project.exe.manifest
+C:\Users\Ghost\Desktop\Semester 2\FOP\Project\FoP Project\bin\Debug\FoP Project.application
+C:\Users\Ghost\Desktop\Semester 2\FOP\Project\FoP Project\bin\Debug\FoP Project.exe
+C:\Users\Ghost\Desktop\Semester 2\FOP\Project\FoP Project\bin\Debug\FoP Project.pdb
+C:\Users\Ghost\Desktop\Semester 2\FOP\Project\FoP Project\obj\Debug\FoP Project.exe.manifest
+C:\Users\Ghost\Desktop\Semester 2\FOP\Project\FoP Project\obj\Debug\FoP Project.application
+C:\Users\Ghost\Desktop\Semester 2\FOP\Project\FoP Project\obj\Debug\Bank App.csprojAssemblyReference.cache
